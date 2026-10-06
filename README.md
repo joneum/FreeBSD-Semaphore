@@ -61,3 +61,9 @@ with `make gomod-vendor`, and run `make makesum`.
 ---
 
 If you like my work, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/joneum/).
+
+## License
+
+What is in this repository is BSD 2-Clause, see [LICENSE](LICENSE).
+The distfiles attached to the releases are built from Semaphore UI
+and stay under its licence.
